@@ -1,2 +1,2 @@
-# notes
-Note some useful stuff
+# blog
+My personal blog, note some useful stuff.
